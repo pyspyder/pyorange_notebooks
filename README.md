@@ -11,15 +11,17 @@ PyOrange is a great library which not only simplifies the machine learning tasks
 
 
 ## Current Release
-PyOrange `1.0.0` is now available. The easiest way to install pyorange is using pip. 
+PyOrange `2.0.0` is now available. The easiest way to install pyorange is using pip. 
 
 ```python
 pip install pyorange
+      (or)
+pip install pyorange==2.0.0
 ```
 
 
 ## PyOrange on GPU
-PyOrange = 1.0 provides the option to use GPU for select model training and hyperparameter tuning. There is no change in the use of the API, however, in some cases, additional libraries have to be installed as they are not installed with the default slim version or the full version. The following estimators can be trained on GPU.
+PyOrange = 2.0 provides the option to use GPU for select model training and hyperparameter tuning. There is no change in the use of the API, however, in some cases, additional libraries have to be installed as they are not installed with the default slim version or the full version. The following estimators can be trained on GPU.
 
 - Extreme Gradient Boosting (requires no further installation)
 
@@ -47,8 +49,8 @@ cuML >= 0.15 cannot be installed on Google Colab. Instead use blazingSQL (https:
 ```
 
 ## Important Links
-- Release notes: https://github.com/pyspyder/pyorange/releases
-- Example Notebooks: https://github.com/pyspyder/pyorange/tree/master/examples
+
+- Example Notebooks: https://github.com/pyspyder/pyorange_notebooks
 
 
 ## Who should use PyOrange?
@@ -60,7 +62,7 @@ PyOrange is an open source library that anybody can use. In our view the ideal t
 
 ## License
 
-Copyright 2020 Satish Kumar S <satishsriram369@gmail.com>
+Copyright 2020-2021 S Satish Kumar  <satishsriram369@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
