@@ -1,4 +1,5 @@
 
+
 ## What is PyOrange?
 PyOrange is an open-source, low-code machine learning library in Python that automates machine learning workflows. It is an end-to-end machine learning and model management tool that speeds up the experiment cycle exponentially and makes you more productive.
 
@@ -11,12 +12,12 @@ PyOrange is a great library which not only simplifies the machine learning tasks
 
 
 ## Current Release
-PyOrange `2.0.0` is now available. The easiest way to install pyorange is using pip. 
+PyOrange `2.0.` is now available. The easiest way to install pyorange is using pip. 
 
 ```python
 pip install pyorange
       (or)
-pip install pyorange==2.0.0
+pip install pyorange==2.0.
 ```
 
 
@@ -69,4 +70,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-© 2020 GitHub, Inc.
+© 2021 GitHub, Inc.
