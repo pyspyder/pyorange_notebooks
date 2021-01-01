@@ -12,12 +12,12 @@ PyOrange is a great library which not only simplifies the machine learning tasks
 
 
 ## Current Release
-PyOrange `2.0.` is now available. The easiest way to install pyorange is using pip. 
+PyOrange `2.0` is now available. The easiest way to install pyorange is using pip. 
 
 ```python
 pip install pyorange
       (or)
-pip install pyorange==2.0.
+pip install pyorange==2.0
 ```
 
 
